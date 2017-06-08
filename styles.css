@@ -4,8 +4,27 @@
     background-color: grey;
     float: left;
     margin-right: 1em;
+    overflow: hidden;
+    position:relative;
 }
 
 .sidepanel {
     line-height: 2em;
+}
+
+.shape {
+    position: absolute;
+}
+
+.rectangle {
+    background-color: green;
+}
+
+.square {
+    background-color: red;
+}
+
+.circle {
+    background-color: purple;
+    border-radius: 50%;
 }
