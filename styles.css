@@ -1,0 +1,11 @@
+#shape-canvas {
+    width: 600px;
+    height: 600px;
+    background-color: grey;
+    float: left;
+    margin-right: 1em;
+}
+
+.sidepanel {
+    line-height: 2em;
+}
